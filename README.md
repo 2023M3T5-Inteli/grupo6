@@ -9,13 +9,13 @@
 ## Nome do grupo
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/celine-souza-1a38aa225/">Celine Souza</a>
+- <a href="https://www.linkedin.com/in/guilherme-moura-9668821a5/">Guilherme Moura</a>
+- <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-alencar-161243211/">José Vitor Alencar</a> 
+- <a href="https://www.linkedin.com/in/tonyjonas//">Tony Jonas</a> 
+- <a href="https://www.linkedin.com/in/vinicius-kumagai-219376184/">Vinícius Kumagai</a> 
+- <a href="https://www.linkedin.com/in/vitor-santos-851408196/">Vitor Hugo</a>
+
 
 ## 📝 Descrição
 
@@ -61,25 +61,13 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 25/01/2022
-    * Atualização de documentos (código do módulo permanece inalterado).
-* 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 0.0.1 - 10/02/2023
+    * Upload da documentação versão 0.1
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Nome do integrante 1, Nome do integrante 2, Nome do integrante 3, Nome do integrante 4, Nome do integrante 5, Nome do integrante 6, Nome do integrante 7</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto:
 
-1. <https://creativecommons.org/share-your-work/>
