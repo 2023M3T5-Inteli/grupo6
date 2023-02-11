@@ -6,7 +6,7 @@
 
 # NeoVision
 
-## Nome do grupo
+## NeoVision
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/celine-souza-1a38aa225/">Celine Souza</a>
