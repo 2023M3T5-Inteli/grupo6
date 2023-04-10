@@ -34,6 +34,8 @@ A nossa proposta de solução envolve o consumo de dados que começaram a ser co
 |--> notebooks<br>
   &emsp;|--> T5_G6_V05_Predictive_Model_Development.ipynb<br>
   &emsp;|--> T5_G6_V05_Predictive_Model_Deploy.ipynb<br>
+|--> web<br>
+  &emsp;|--> src<br>
 | readme.md<br>
 | license.txt
 
@@ -107,7 +109,7 @@ Aqui estão as referências usadas no projeto:
 11. IEEE - Institute of Electrical and Electronics Engineers. Inteligência Artificial: Tendências Contemporâneas e Futuras. Disponível em: <https://www.ieee.org/pt-br/publicacoes/tech-talk/inteligencia-artificial-tendencias-contemporaneas-e-futuras>. Acesso em: 6 de fevereiro de 2023.
 
 12. WIRED. O que é Inteligência Artificial (IA)? Principais Tendências e Exemplos. Disponível em: <https://www.wired.com/story/inteligencia-artificial-ia-tendencias-exemplos/>. Acesso em: 6 de fevereiro de 2023.
- 
+
 13. TOWARDS SCIENCE. Introduction to SHAP with Python. Disponível em: <https://towardsdatascience.com/introduction-to-shap-with-python-d27edc23c454>. Acesso em: 9 de Abril de 2023
 
 14. STREAMLIT. Disponível em: <https://streamlit.io/>. Acesso em: 2 de Abril de 2023.
